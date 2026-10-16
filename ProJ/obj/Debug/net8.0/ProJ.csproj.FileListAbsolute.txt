@@ -1,0 +1,15 @@
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\bin\Debug\net8.0\ProJ.exe
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\bin\Debug\net8.0\ProJ.deps.json
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\bin\Debug\net8.0\ProJ.runtimeconfig.json
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\bin\Debug\net8.0\ProJ.dll
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\bin\Debug\net8.0\ProJ.pdb
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.AssemblyInfoInputs.cache
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.AssemblyInfo.cs
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.sourcelink.json
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.dll
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\refint\ProJ.dll
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.pdb
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ProJ.genruntimeconfig.cache
+C:\Users\aluno.senai\Desktop\GitHubDesFinal\LabSoft09\ProJ\obj\Debug\net8.0\ref\ProJ.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|c:\\users\\aluno.senai\\desktop\\githubdesfinal\\labsoft09\\proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|c:\\users\\aluno.senai\\desktop\\githubdesfinal\\labsoft09\\proj\\services\\gerenciadorprototipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|solutionrelative:services\\gerenciadorprototipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|c:\\users\\aluno.senai\\desktop\\githubdesfinal\\labsoft09\\proj\\models\\pacoteexame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|solutionrelative:models\\pacoteexame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|c:\\users\\aluno.senai\\desktop\\githubdesfinal\\labsoft09\\proj\\models\\procedimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|solutionrelative:models\\procedimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|c:\\users\\aluno.senai\\desktop\\githubdesfinal\\labsoft09\\proj\\proj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7D60C6C-6905-41FB-9A34-8F3DA4AA1672}|ProJ.csproj|solutionrelative:proj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciadorPrototipos.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Services\\GerenciadorPrototipos.cs",
+              "RelativeDocumentMoniker": "Services\\GerenciadorPrototipos.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Services\\GerenciadorPrototipos.cs*",
+              "RelativeToolTip": "Services\\GerenciadorPrototipos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:40:53.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacoteExame.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Models\\PacoteExame.cs",
+              "RelativeDocumentMoniker": "Models\\PacoteExame.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Models\\PacoteExame.cs",
+              "RelativeToolTip": "Models\\PacoteExame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:39:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:35:42.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Procedimento.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Models\\Procedimento.cs",
+              "RelativeDocumentMoniker": "Models\\Procedimento.cs",
+              "ToolTip": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\Models\\Procedimento.cs",
+              "RelativeToolTip": "Models\\Procedimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:38:05.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProJ",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\ProJ.csproj",
+              "RelativeDocumentMoniker": "ProJ.csproj",
+              "ToolTip": "C:\\Users\\aluno.senai\\Desktop\\GitHubDesFinal\\LabSoft09\\ProJ\\ProJ.csproj",
+              "RelativeToolTip": "ProJ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-16T12:37:58.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
